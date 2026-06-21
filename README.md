@@ -1,4 +1,4 @@
-# Credit Rissk Classsification : Comparative Analysis of Logistic Regression and Random Forest Models
+# Credit Risk Classsification : Comparative Analysis of Logistic Regression and Random Forest Models
 
 ##Overview
 This project compares Logistic Regression and Random Forest for predicting credit risk. The goal is to determine which model is more accurate and reliable for identifying loan applicants who may default.
